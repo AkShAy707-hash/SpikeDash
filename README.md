@@ -1,4 +1,4 @@
 # Tinkerbell
-trial repo
+ game designing 
 # Project 
-to be decided -_-
+1.Spike Dash
