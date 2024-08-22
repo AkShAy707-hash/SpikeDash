@@ -1,10 +1,16 @@
 # Spike Dash
  A simple 2d game that is fun to play with friends & compete to see who gets the highest score
-# Team Members 
+## Team Members 
 Akshay<br>
 Aswin<br>
 Bert<br>
-# Game Mechanisms
+## Project Demo
+
+
+https://github.com/user-attachments/assets/59b0acf9-dbd3-4093-9263-660e3005bf96
+
+
+## Game Mechanisms
 use WASD or arrow keys to move
 the up arrow and W key works for jump
 ### Main objective
