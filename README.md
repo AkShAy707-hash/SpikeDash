@@ -1,5 +1,5 @@
 # Spike Dash
- A simple 2d game that is fun to play with friends & compete to see who gets the highest score
+ A simple 2d game that is fun to play with friends & compete to see who gets the highest score without Dieing 
  (**still a work in progress**)
 ## Team Members 
 Akshay<br>
@@ -8,7 +8,11 @@ Bert<br>
 ## Project Demo
 
 
-https://github.com/user-attachments/assets/59b0acf9-dbd3-4093-9263-660e3005bf96
+
+
+https://github.com/user-attachments/assets/b361b82b-a2e8-409b-9a89-691a441032a1
+
+
 
 
 ## Game Mechanisms
@@ -19,7 +23,7 @@ the up arrow and W key works for jump
 •collect fruits<br>
 •Score  as high as you can<br>
 # Configuration
-Download the latest spikeDash zip file and extract  and save in desired location 
+Download the latest SpikeDash zip file and extract  and save in desired location 
 
 # How to Run
 Go to godot application and click on import project and choose
