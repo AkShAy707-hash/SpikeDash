@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/b361b82b-a2e8-409b-9a89-691a441032a1
 
 ## Game Mechanisms
 use WASD or arrow keys to move
-the up arrow and W key works for jump
+SPACE for jump
 ### Main objective
 •Avoid spikes<br>
 •collect fruits<br>
