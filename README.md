@@ -1,3 +1,5 @@
+![logo-white](https://github.com/user-attachments/assets/2b71eccc-8bdf-4494-ac5e-46c72f08db06)
+
 # Spike Dash
  A simple 2d game that is fun to play with friends & compete to see who gets the highest score without Dieing 
  (**still a work in progress**)
