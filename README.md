@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/b361b82b-a2e8-409b-9a89-691a441032a1
 use WASD or arrow keys to move
 <br>SPACE for jump
 ### Main objective
-•Avoid spikes<br>
+•Avoid enemies<br>
 •collect fruits<br>
 •Score  as high as you can<br>
 # Configuration
